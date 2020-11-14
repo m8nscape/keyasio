@@ -1,0 +1,1 @@
+cl /O2 /std:c++17 /EHsc utils.cpp main.cpp /Fekeyasio.exe /link fmod\lib\fmod_vc.lib
